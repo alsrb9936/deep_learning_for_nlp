@@ -1,0 +1,5 @@
+# mac directory config file 
+.DS_Store
+
+# ipynb checkpoint 
+.ipynb_checkpoints
